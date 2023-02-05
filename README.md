@@ -1,2 +1,3 @@
 # FrontEnd-Compiler
-Frontend compiler that has lexic and syntatic analysers
+Lexic and Syntatic analysers of a Frontend Compiler.
+Made in Python.
