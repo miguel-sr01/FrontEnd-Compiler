@@ -1,0 +1,8 @@
+programa teste
+[Isso é um teste de execução]
+inicio
+    char:x_;
+
+fim
+
+$
